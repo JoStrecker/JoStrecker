@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Johannes Strecker
+- 🎓 I’m currently studying mobile Computing at Hof University
