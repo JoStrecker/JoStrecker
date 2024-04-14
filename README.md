@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Johannes Strecker
-- 🎓 I’m currently studying Mobile Computing at Hof University
+- 🎓 I’m currently studying Informatik M.Sc. at Hof University
